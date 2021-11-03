@@ -1,0 +1,149 @@
+body{
+	background: indigo;
+}
+
+.container{
+	width: 900px;
+	margin: auto;
+	background-color: white;
+	border-top: 1px solid;
+	border-color: orange;
+	border-radius: 10px;
+	margin: auto;
+
+}
+.navbar img{
+	width: 150px;
+	margin-top: 0;
+	margin-left: 10px;
+}
+.navbar ul {
+    padding: 1px;
+    list-style: none;
+    position: relative;
+    display: inline-table;
+    width:60%;
+}
+.navbar ul li{
+    float:right;
+    font-family: sans-serif;
+}
+
+.navbar ul li:hover{
+    background:#d68d9a;
+}
+.navbar ul li:hover a{
+         color:#000;
+}
+.navbar ul li a{
+    display: block;
+    padding: 10px;
+   	color: black;
+    text-decoration: none;
+}
+.tengah img{
+	width: 700px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*konten*/
+.content {
+	width: 800px;
+	font-family: sans-serif;
+	margin-top: 20px;
+
+}
+.content table{
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+/*kolom regestrasi*/
+.regestrasi{
+	width: 900px;
+	margin: auto;
+	background-color: white;
+	margin: auto;
+
+}
+.rd{
+	float: left;
+	width: 300px;
+	margin-top: 10px;
+	margin-left: 5px;
+}
+.table{
+	float: right;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 15px;
+
+}
+.bt{
+	margin-top: 10px;
+}
+
+/*bagian kolom 4*/
+.kotak4{
+	margin-left: 20px;
+	margin-top: 20px;
+
+}
+.kotak4 button{
+	margin: 10px;
+}
+
+.kolom{
+	display: flex;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.kolom1{
+	width: 120px;
+	height: 130px;
+	border: solid;
+	margin: 15px;
+	text-align: center;
+	background-color: white;
+}
+.kolom2{
+	width: 120px;
+	height: 130px;
+	border: solid;
+	margin: 15px;
+	text-align: center;
+	background-color: white;
+}
+.kolom3{
+	width: 120px;
+	height: 130px;
+	border: solid;
+	margin: 15px;
+	text-align: center;
+	background-color: white;
+}
+
+.kolom4{
+	width: 120px;
+	height: 130px;
+	border: solid;
+	margin: 15px;
+	text-align: center;
+	background-color: white;
+}
+.Facebook{
+	width: 10%;
+}
+.wifi{
+	width: 10%;
+
+}
+.k{
+	float: left;
+	margin-left: 5px;
+}
+.ka{
+	float: right;
+	margin-right: 5px;
+
+}
